@@ -65,7 +65,7 @@ public class DummyTest {
 
     @Test
     public void test3() {
-        System.out.println("Starting test 2");
+        System.out.println("Starting test 3");
         assertTrue(1==2);
     }
     
