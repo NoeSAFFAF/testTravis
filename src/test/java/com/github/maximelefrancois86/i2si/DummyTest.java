@@ -62,5 +62,11 @@ public class DummyTest {
         System.out.println("Starting test 2");
         assertTrue(1==1);
     }
+
+    @Test
+    public void test3() {
+        System.out.println("Starting test 2");
+        assertTrue(1==2);
+    }
     
 }
